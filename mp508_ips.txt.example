@@ -1,0 +1,8 @@
+# MP508 IP Address List
+# One IP address per line (with optional :port)
+# Lines starting with # are ignored
+# Lines not matching x.x.x.x or x.x.x.x:port are skipped
+
+192.168.1.10
+192.168.1.11
+192.168.1.12:8443
